@@ -1,0 +1,47 @@
+.registration-completed {
+    text-align: center;
+    padding: 50px;
+    
+    
+  }
+  body{
+    overflow-x: hidden;
+   
+  }
+  
+
+  
+  .completed-message img {
+    width: 100px; 
+  }
+  #loadingID{
+    border:none;
+    width:250px;
+    height:250px;
+    position: absolute;
+    bottom:320px;
+    left:700px
+    
+
+
+  }
+h1{
+    color:"red";
+}
+.loading-animation{
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#Completed{
+  width:150px;
+  height:150px
+}
+#back{
+  width:200px;
+  height:50px;
+  border-radius: 5px;
+  background: rgb(161, 71, 71);
+  color:white;
+  font-size: larger;
+}
